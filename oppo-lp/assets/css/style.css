@@ -306,7 +306,6 @@ footer p:first-child {
     main #pro .row-pro-title .box-title-b h2 {
         font-size: 46px;
         font-weight: 900;
-        margin: 0;
     }
     main #pro .row-pro-title .box-title-b .pro {
         font-size: 46px;
@@ -345,7 +344,7 @@ footer p:first-child {
         border-radius: 10px;
         padding: 0 10px;
         letter-spacing: 1px;
-        margin: 0;
+        margin-top: 10px;
         margin-left: 10px;
     }
     main #_a94 .row-a94-card .card-oppo {
@@ -381,7 +380,6 @@ footer p:first-child {
     main #pro .row-pro-title .box-title-b h2 {
         font-size: 46px;
         font-weight: 900;
-        margin: 0;
     }
     main #pro .row-pro-title .box-title-b .pro {
         font-size: 46px;
@@ -420,7 +418,7 @@ footer p:first-child {
         border-radius: 10px;
         padding: 0 10px;
         letter-spacing: 1px;
-        margin: 0;
+        margin-top: 10px;
         margin-left: 10px;
     }
     main #_a94 .row-a94-card .card-oppo {
