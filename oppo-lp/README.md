@@ -1,11 +1,12 @@
 Oppo-Landing-2021
 
 
-![oppo-1](https://user-images.githubusercontent.com/45883138/121572589-a329ef80-ca24-11eb-8464-3b096c80b402.png)
+![oppo-1](https://user-images.githubusercontent.com/45883138/121577960-6eb93200-ca2a-11eb-8bf6-4cdb6e83bb86.png)
+
 
 <br>
 
-![oppo-1-structure](https://user-images.githubusercontent.com/45883138/121572640-b1780b80-ca24-11eb-8468-8228666820f5.png)
+![oppo-1-structure](https://user-images.githubusercontent.com/45883138/121577982-74167c80-ca2a-11eb-89be-e7fcf4cc5c91.png)
 
 <br>
 
