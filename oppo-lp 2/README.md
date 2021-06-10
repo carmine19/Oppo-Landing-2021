@@ -1,5 +1,7 @@
 Oppo-Landing-2021
-![oppo-2](https://user-images.githubusercontent.com/45883138/121576494-ba6adc00-ca28-11eb-8419-3c6c156921d5.png)
+
+![oppo-2](https://user-images.githubusercontent.com/45883138/121609323-dc2d8880-ca53-11eb-84dc-38fcce2d1e33.png)
+
 
 <br>
 
