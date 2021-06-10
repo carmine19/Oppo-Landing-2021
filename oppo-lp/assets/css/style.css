@@ -147,6 +147,7 @@ main #pro .row-pro-function .box-function .box-text p {
     margin: 0;
     margin-left: 7px;
     text-align: left;
+    font-size: 15px;
 }
 
 main #pro .row-pro-function .box-function .box-text p:last-child {
@@ -268,6 +269,7 @@ main #_a94 .row-a94-function .box-function .box-text p {
     margin: 0;
     margin-left: 7px;
     text-align: left;
+    font-size: 15px;
 }
 
 main #_a94 .row-a94-function .box-function .box-text p:last-child {
