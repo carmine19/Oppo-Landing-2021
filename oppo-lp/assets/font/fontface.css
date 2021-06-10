@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'Opposans';
+    src: url("../../assets/font/OPPOSans-Bold.woff") format('woff'), url("../../assets/font/OPPOSans-Bold.ttf") format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Opposans';
+    src: url("../../assets/font/OPPOSans-Regular.woff") format('woff'), url("../../assets/font/OPPOSans-Regular.ttf") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Opposans';
+    src: url("../../assets/font/OPPOSans-Medium.woff") format('woff'), url("../../assets/font/OPPOSans-Medium.ttf") format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}

@@ -1,0 +1,438 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Opposans', sans-serif;
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.container::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    padding: 20px;
+}
+
+header img {
+    width: 190px;
+}
+
+
+/* inizio pro section */
+
+main #pro {
+    text-align: center;
+}
+
+main #pro .row-pro-title .box-title-t {
+    margin-top: 10px;
+}
+
+main #pro .row-pro-title .box-title-t .box-img {
+    margin: 10px auto;
+}
+
+main #pro .row-pro-card {
+    margin: 50px auto;
+}
+
+main #pro .row-pro-card .card-oppo {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+main #pro .row-pro-card .card-oppo .title-top p {
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 200;
+}
+
+main #pro .row-pro-card .card-oppo .box-img {
+    margin: 20px auto;
+}
+
+main #pro .row-pro-card .card-oppo .box-title-bottom .t-bottom h4 {
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+main #pro .row-pro-card .card-oppo .box-title-bottom .d-bottom p:first-child {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 400;
+}
+
+main #pro .row-pro-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+    position: relative;
+    padding: 3px 10px;
+    border-radius: 6px;
+    background-color: #cacaca;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+main #pro .row-pro-function {
+    margin: 50px auto;
+}
+
+main #pro .row-pro-function .box-function {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main #pro .row-pro-function .box-function .box-img img {
+    width: 80px;
+}
+
+main #pro .row-pro-function .box-function .box-text p {
+    margin: 0;
+    margin-left: 7px;
+    text-align: left;
+}
+
+main #pro .row-pro-function .box-function .box-text p:last-child {
+    margin-top: -3px;
+}
+
+
+/********** fine pro section ********/
+
+
+/********** inizio a94 section ********/
+
+main #_a94 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+main #_a94 .row-a94-title .box-title-t {
+    margin-top: 10px;
+}
+
+main #_a94 .row-a94-title .box-title-t .box-img {
+    margin: 10px auto;
+}
+
+main #_a94 .row-a94-title .box-title-b {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main #_a94 .row-a94-title .box-title-b h2 {
+    font-size: 78px;
+    font-weight: 900;
+    margin: 0;
+}
+
+main #_a94 .row-a94-title .box-title-b ._5g {
+    font-weight: 500;
+    font-size: 40px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 0 10px;
+    margin-left: 15px;
+    letter-spacing: 1px;
+}
+
+main #_a94 .row-a94-card {
+    margin: 50px auto;
+}
+
+main #_a94 .row-a94-card .card-oppo {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+main #_a94 .row-a94-card .card-oppo .title-top p {
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 200;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-img {
+    margin: 20px auto;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-title-bottom .t-bottom h4 {
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin: 0;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-title-bottom span {
+    font-weight: 500;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:first-child {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 400;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom {
+    margin-top: 10px;
+}
+
+main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+    position: relative;
+    padding: 3px 10px;
+    border-radius: 6px;
+    background-color: #cacaca;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+main #_a94 .row-a94-function {
+    margin: 50px auto;
+}
+
+main #_a94 .row-a94-function .box-function {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main #_a94 .row-a94-function .box-function .box-img img {
+    width: 80px;
+}
+
+main #_a94 .row-a94-function .box-function .box-text p {
+    margin: 0;
+    margin-left: 7px;
+    text-align: left;
+}
+
+main #_a94 .row-a94-function .box-function .box-text p:last-child {
+    margin-top: -3px;
+}
+
+
+/********** fine a94 section ********/
+
+
+/********** inizio footer ********/
+
+footer p {
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+}
+
+footer p:first-child {
+    font-weight: 700;
+}
+
+
+/********** Media Query ********/
+
+
+/******* Tablet **********/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    main #pro .row-pro-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 40px;
+    }
+    main #pro .row-pro-card .card-oppo {
+        margin-top: 20px;
+    }
+    main #pro .row-pro-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #pro .row-pro-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 40px;
+    }
+    main #_a94 .row-a94-card .card-oppo {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    main #_a94 .row-a94-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-img {
+        margin: 25px auto;
+    }
+    main #_a94 .row-a94-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+        font-size: 15px;
+    }
+}
+
+
+/*
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    main #pro .row-pro-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 40px;
+    }
+    main #pro .row-pro-card .card-oppo {
+        margin-top: 20px;
+    }
+    main #pro .row-pro-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #pro .row-pro-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 40px;
+    }
+    main #_a94 .row-a94-card .card-oppo {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    main #_a94 .row-a94-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-img {
+        margin: 25px auto;
+    }
+    main #_a94 .row-a94-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+        font-size: 15px;
+    }
+}
+
+
+/******* Mobile **********/
+
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    main #pro .row-pro-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 20px;
+    }
+    main #pro .row-pro-card .card-oppo {
+        margin-top: 20px;
+    }
+    main #pro .row-pro-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #pro .row-pro-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 20px;
+    }
+    main #_a94 .row-a94-card .card-oppo {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    main #_a94 .row-a94-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-img {
+        margin: 25px auto;
+    }
+    main #_a94 .row-a94-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+        font-size: 15px;
+    }
+}
+
+
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    main #pro .row-pro-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 20px;
+    }
+    main #pro .row-pro-card .card-oppo {
+        margin-top: 20px;
+    }
+    main #pro .row-pro-card .card-oppo .title-top p {
+        font-size: 22px;
+    }
+    main #pro .row-pro-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #pro .row-pro-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-title .box-title-t .box-img {
+        margin: 10px auto;
+        padding: 10px 20px;
+    }
+    main #_a94 .row-a94-card .card-oppo {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    main #_a94 .row-a94-card .card-oppo .title-top p {
+        font-size: 22px;
+    }
+    main #_a94 .row-a94-function .box-function {
+        display: block;
+        margin-bottom: 10px;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-img {
+        margin: 25px auto;
+    }
+    main #_a94 .row-a94-function .box-function .box-text {
+        display: inline-block;
+    }
+    main #_a94 .row-a94-card .card-oppo .box-title-bottom .d-bottom p:last-child {
+        font-size: 15px;
+    }
+}
